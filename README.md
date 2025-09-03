@@ -4,7 +4,7 @@
 
 
 ## 📑 Table of Contents
-- [🛒 E‑commerce Scenarios](#-ecommerce-scenarios)
+- [🛒 E‑commerce](#-ecommerce)
   - [1. Background & Outfit Replacement](#1-background--outfit-replacement)
   - [2. Swap Accessories](#2-swap-accessories)
   - [3. Consistent Product Holding](#3-consistent-product-holding)
@@ -37,16 +37,13 @@
   - [23. Old Photo Restoration](#23-old-photo-restoration)
 ---
 
-## 🛒 E‑commerce Scenarios
+## 🛒 E‑commerce
 
 Perfect for product launches, outfit swaps, style unification, and batch edits — drastically shortening the retouching workflow.
 
 ---
 
 ### 1. Background & Outfit Replacement
-**Scenario**  
-更换拍摄对象背景和衣服，同时保持姿势。适合试衣、统一产品图。
-
 **Nano Banana Prompt**
 ```plaintext
 Change the subject’s background and clothing while keeping pose details intact.
@@ -58,9 +55,6 @@ Change the subject’s background and clothing while keeping pose details intact
 ---
 
 ### 2. Swap Accessories
-**Scenario**  
-更改眼镜、添加饮品等配件，保持面部特征。
-
 **Nano Banana Prompt**
 ```plaintext
 Make that computer glass to black sunglass with a healthy drink
